@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Coffee
-Welcomme
 May the force be with you
 
 <!---
